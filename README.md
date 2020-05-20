@@ -4,7 +4,7 @@
 
     $ sudo apt install git
 
-    $ git clone Web-Scraping-Download-Multiple-Google-Images-From-A-Single-Command-Using-Selenium.git
+    $ git clone https://github.com/ShobhitBansal/Web-Scraping-Download-Multiple-Google-Images-From-A-Single-Command-Using-Selenium.git
   
     $ cd Web-Scraping-Download-Multiple-Google-Images-From-A-Single-Command-Using-Selenium
 
