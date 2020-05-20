@@ -20,11 +20,8 @@
 
     $ pip3 install -r requirements.txt
     
-    $ cd home/model/
     
-    $ wget https://www.dropbox.com/s/nn9975383dee3i6/piano_model.hdf5?dl=0 -O piano_model.hdf5
-    
-Each time when you want to download images, execute the following command:
+Each time when you want to download images, first activate the virtual environment (env) then execute the following command:
 
 	  $ scrapy crawl download -a searchword="<keyword>" -a no_of_images="<number>"
 	 
