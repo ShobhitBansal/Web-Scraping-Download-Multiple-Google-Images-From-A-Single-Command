@@ -16,17 +16,17 @@ Be sure to check Add Python to path option while installing python
 
 ![](Screenshots/1.png)
 
-    $ git clone https://github.com/ShobhitBansal/Web-Scraping-Download-Multiple-Google-Images-From-A-Single-Command-Using-Selenium.git
+        git clone https://github.com/ShobhitBansal/Web-Scraping-Download-Multiple-Google-Images-From-A-Single-Command-Using-Selenium.git
     
-    $ cd Web-Scraping-Download-Multiple-Google-Images-From-A-Single-Command-Using-Selenium
+        cd Web-Scraping-Download-Multiple-Google-Images-From-A-Single-Command-Using-Selenium
     
-    $ pip install -r requirements.txt
+        pip install -r requirements.txt
     
 ![](Screenshots/2.png)
 
 Each time when you want to download images, come to the current directory and execute the following command:
 
-    $ scrapy crawl download -a searcword="<keyword>" -a no_of_images"<number>"
+        scrapy crawl download -a searcword="<keyword>" -a no_of_images"<number>"
     
 ![](Screenshots/3.png)
 
