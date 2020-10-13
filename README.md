@@ -26,7 +26,7 @@ Be sure to check Add Python to path option while installing python
 
 Each time when you want to download images, come to the current directory and execute the following command:
 
-        scrapy crawl download -a searcword="<keyword>" -a no_of_images"<number>"
+        scrapy crawl download -a searchword="<keyword>" -a no_of_images="<number>"
     
 ![](Screenshots/3.png)
 
